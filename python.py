@@ -5,4 +5,4 @@ endereco = input("digite seu endereço: ")
 
 print(f"olá, {nome}! sua idade e {idade}, seu peso e {peso} voce mora em {endereco}.")
 
-      
+
