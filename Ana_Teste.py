@@ -1,1 +1,2 @@
 print("Novidade")
+print("retirada")
